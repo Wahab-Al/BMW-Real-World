@@ -275,7 +275,7 @@
     border-radius: 5px;
     /* line-height: 43px; */
     position: relative;
-    z-index: 1;
+    z-index: 0;
 }
 
 .containerContent a,
@@ -354,6 +354,9 @@ i {
     width: 100%;
     height: 100vh;
     background-color: rgba(198, 232, 233, 0.493);
+    padding-top: 53px;
+    position: relative;
+    z-index: 0;
 }
 
 
@@ -1024,11 +1027,16 @@ p {
 }
 
 .AgentBlock:hover h3 {
-    color: rgb(14, 207, 140);
+    color: rgb(60, 156, 156);
 }
 
 .AgentBlock:hover p {
     color: rgb(17, 36, 29);
+}
+
+.AgentSocialMediaIcons i {
+    color: rgb(60, 156, 156);
+    ;
 }
 
 
