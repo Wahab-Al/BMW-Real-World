@@ -26,6 +26,11 @@ This Projedt is an Exercise in HTML and CSS, without using CSS3, not responsive 
 
 ---
 
+## License: 📄
+MIT License
+
+--- 
+
 ## Installation
 
 1. Clone the repository:
